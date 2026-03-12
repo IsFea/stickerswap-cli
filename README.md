@@ -16,6 +16,8 @@ stickerswap run
 
 The tool is optimized for Apple Silicon when available and falls back to CPU-only execution on other machines.
 
+Project direction and upcoming phases are documented in [ROADMAP.md](ROADMAP.md).
+
 ## Features
 
 - One-command guided flow with prompts for missing inputs.
@@ -158,4 +160,3 @@ stickerswap check
 ## License
 
 MIT
-
